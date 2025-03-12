@@ -1,0 +1,19 @@
+# Node.js modullari
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Maxfiy fayllar
+.env
+.env.local
+.env.development
+.env.production
+
+# Logs va vaqtinchalik fayllar
+logs/
+*.log
+.DS_Store
+Thumbs.db
+
+# Git ignore uchun
+.gitignore
